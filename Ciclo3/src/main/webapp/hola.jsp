@@ -9,5 +9,7 @@
 <body>
 <h1>Mi primer JSP</h1>
 <h1>Hola</h1>
+<h1>Otra linea</h1>
+<h1>x2</h1>
 </body>
 </html>
