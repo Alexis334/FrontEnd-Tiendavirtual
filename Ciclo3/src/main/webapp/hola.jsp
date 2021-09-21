@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Mi primer JSP</h1>
+<h1>Hola</h1>
 </body>
 </html>
